@@ -9,7 +9,7 @@ This repository contains the code for a Medical Chatbot developed using the Llam
 ## File Description
 - model.py: Contains the main chatbot logic including chatbot activation, conversation setup, and answer retrieval functions.
 - main.py: Manages the ingestion of data, vectorization, and creation of the FAISS index.
-- Create a folder called "Data" in the file and download the data from the given link and keep inside the folder
+- Create a folder called "Data" in the repo and download the data from the given link and keep inside the folder
  "https://drive.google.com/file/d/1qw0hs9rHAMfPZzgnv7CLN9W-ZY1Aj0Wc/view?usp=sharing"
 ## Setup and Installation
 ```
